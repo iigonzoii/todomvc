@@ -1,0 +1,29 @@
+#inputID::placeholder {
+    color: black;
+    opacity:0.4;
+}
+.all{
+    background-color:white;
+    color:black
+}
+
+.active{
+    background-color:green;
+    color:black
+}
+
+.completed{
+    background-color:darkgray;
+    color:black
+}
+
+.complete-button{
+    background-color: darkgray;
+    border-radius: 0.25rem;
+    letter-spacing: 0.025em;
+    font-weight: 500;
+}
+
+.foot{
+    color:black;
+}

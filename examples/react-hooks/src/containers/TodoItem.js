@@ -34,10 +34,10 @@ export default function TodoItem({ todo }) {
       onClick={handleViewClick}
       className={`${editing ? "editing" : ""} ${todo.done ? "completed" : ""}`}
     >
-      <div className="view">
+      <div className="view ">
         <input
           type="checkbox"
-          className="toggle"
+          className="toggle "
           checked={todo.done}
           onChange={onDone}
           autoFocus={true}
@@ -48,7 +48,7 @@ export default function TodoItem({ todo }) {
       {editing && (
         <input
           ref={ref}
-          className="edit"
+          className="edit "
           value={todo.label}
           onChange={onChange}
           onKeyPress={onEnter}
