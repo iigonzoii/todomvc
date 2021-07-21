@@ -1,8 +1,8 @@
 {
-  "name": "hooks-todo",
+  "name": "todomvc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jacob-ebey.github.io/hooks-todo",
+  "homepage": "https://iigonzoii.github.io/todomvc",
   "dependencies": {
     "core-js": "^2.5.7",
     "raf": "^3.4.1",
