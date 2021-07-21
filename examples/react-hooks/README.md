@@ -1,55 +1,83 @@
 # Hooks TODO
+
+![badge](https://img.shields.io/badge/license-MIT-blue)
+
+## Table of contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Deployed Site](#deployed-site)
+- [Questions](#questions)
+- [Template](#template)
+- [Explanation](#explanation)
+- [Unique](#unique)
+- [Improvement](#improvement)
+
+## Description
+
 A simple todo app built using react hooks.
 
-A live demo is available at: https://jacob-ebey.github.io/hooks-todo/
+## Installation
 
-## Available Scripts
+no install required. 
 
-In the project directory, you can run:
+## Template
+You can see the template I used <a href="https://github.com/tastejs/todomvc/tree/master/examples/react-hooks">here</a>
 
-### `npm dev`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Explanation
+- I changed the front end so there are a few places to see the features I implemented. The original had placeholder text that was very hard to read so I changed the color of the text and opacity. 
+- The original said to "What needs to be done" but it didn't say to hit enter or to click a button to add them, so I changed the directions of the placeholder.
+- There wasn't really a way to tell if you were on all, active, or completed so I color coded the buttons and the background to match. The original completed wasn't bad because the tasks had lines through them, but it was very hard to read and see.
+- I changed the size of the text in the footer and put some spacing in the lettering of the button, as well as adding background color to the button that matches the section its clearing. 
+- I changed the color of the footer text as well to make it legible 
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Unique
+I understand this is a backend heavy fullstack position, but as soon as I saw this simple app, I had to squint. I chose to alter the front end because it was what jumped out at me. I know its a bit risky doing front end work for a backend dominant position, but if something doesn't look good then no one will want to use it. I think this is unique because I am under the assumption most people will do something related to the backend. I wanted to stay true to myself while still completing the task at hand. I could of altered the backend ,and if that was a requirment, I would have. I would rather showcase what I saw, where my brain went and what I decided to do about it. It's my hope that my decision doesn't backfire and that whoever is reading this understands why I chose to alter what I altered 
 
-### `npm test`
+## Improvement
+
+I would like to have a function look at how long it's been since a to-do was added and color coordinate based on timeframes. This way you can see how long a todo has been sitting in your list. You could see how long its been since a todo was added  and recieve updates via color. I would also like to make it more mobile responsive, the box cuts off on a small screen and this seems like an app that would be used on a phone more than anything. 
+
+
+  <img alt="template" src="./public/original.jpg">
+  <img alt="my altered original" src="./public/landing.jpg">
+  <img alt="my active section highlighted in green" src="./public/active.jpg"> 
+  <img alt="my completed section" src="./public/completed.jpg"> 
+
+
+## Usage
+
+- follow link to deployed application on github pages
+- you can also fork the repo and run `npm dev` to run the app in development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
+
+
+## License
+
+![badge](https://img.shields.io/badge/license-MIT-blue)
+
+The license covering this application is the MIT license.
+
+
+## Tests
+
+`npm test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Deployed Site
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You can visit the site using <a href="https://iigonzoii.github.io/todomvc/">GitHub Pages</a>
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Questions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Find me on Github or reach out via email
 
-### `npm start`
+You can find me on GitHub at [iigonzoii](https://github.com/iigonzoii)
 
-Serves the production build from the "build" folder.
-
-### `npm run deploy`
-
-Creates and deploys a production build to github pages.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Email me if you run into any questions at a.gonzalez418@gmail.com
