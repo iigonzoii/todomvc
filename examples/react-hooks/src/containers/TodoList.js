@@ -71,7 +71,7 @@ export default function TodoList() {
         <input
         // added this ID because i needed to alter the opacity of the input box, I could barely read what the placeholder said
         id="inputID"
-          className="new-todo active" 
+          className="new-todo" 
           // it just said what needs to be done. there is no direction on how to enter your input. i sat there for a second looking for a button and then my computer brain said "hit enter" most people need direct instruction
           placeholder="Type your todo here and then hit enter" 
           onKeyPress={onAddTodo}
