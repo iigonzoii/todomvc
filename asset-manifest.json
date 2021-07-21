@@ -1,14 +1,14 @@
 {
   "main.css": "/todomvc/static/css/main.6d415543.chunk.css",
-  "main.js": "/todomvc/static/js/main.e8108630.chunk.js",
-  "main.js.map": "/todomvc/static/js/main.e8108630.chunk.js.map",
+  "main.js": "/todomvc/static/js/main.dabb8a8f.chunk.js",
+  "main.js.map": "/todomvc/static/js/main.dabb8a8f.chunk.js.map",
   "runtime~main.js": "/todomvc/static/js/runtime~main.79cc1f24.js",
   "runtime~main.js.map": "/todomvc/static/js/runtime~main.79cc1f24.js.map",
   "static/css/2.cbc8c9d2.chunk.css": "/todomvc/static/css/2.cbc8c9d2.chunk.css",
   "static/js/2.f938f363.chunk.js": "/todomvc/static/js/2.f938f363.chunk.js",
   "static/js/2.f938f363.chunk.js.map": "/todomvc/static/js/2.f938f363.chunk.js.map",
   "index.html": "/todomvc/index.html",
-  "precache-manifest.1b0be8ccc2942eb7aae3a02ad30902bc.js": "/todomvc/precache-manifest.1b0be8ccc2942eb7aae3a02ad30902bc.js",
+  "precache-manifest.ff4cd1d2193b318bf0703f6d20e6abd9.js": "/todomvc/precache-manifest.ff4cd1d2193b318bf0703f6d20e6abd9.js",
   "service-worker.js": "/todomvc/service-worker.js",
   "static/css/2.cbc8c9d2.chunk.css.map": "/todomvc/static/css/2.cbc8c9d2.chunk.css.map",
   "static/css/main.6d415543.chunk.css.map": "/todomvc/static/css/main.6d415543.chunk.css.map"

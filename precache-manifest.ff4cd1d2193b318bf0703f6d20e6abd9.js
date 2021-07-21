@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e810863012ae944d3a7b",
+    "revision": "dabb8a8f18867642c1fb",
     "url": "/todomvc/static/css/main.6d415543.chunk.css"
   },
   {
-    "revision": "e810863012ae944d3a7b",
-    "url": "/todomvc/static/js/main.e8108630.chunk.js"
+    "revision": "dabb8a8f18867642c1fb",
+    "url": "/todomvc/static/js/main.dabb8a8f.chunk.js"
   },
   {
     "revision": "79cc1f24d3a36d41dabb",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/todomvc/static/js/2.f938f363.chunk.js"
   },
   {
-    "revision": "1f3d418fe11dbcc834186e5e1841999b",
+    "revision": "2524501cddd65d114cecb444621c404f",
     "url": "/todomvc/index.html"
   }
 ];
